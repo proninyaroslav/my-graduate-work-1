@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>res/marker_from.svg</file>
+        <file>res/marker_to.svg</file>
+        <file>MapComponent.qml</file>
+        <file>Marker.qml</file>
+        <file>Path.qml</file>
+        <file>sprintf.js</file>
+        <file>SelectableLabel.qml</file>
+        <file>res/moscov.json</file>
+        <file>res/tambov.json</file>
+        <file>res/bounds_marker.svg</file>
+        <file>ToolbarButton.qml</file>
+        <file>BoundsMarker.qml</file>
+        <file>Bounds.qml</file>
+    </qresource>
+</RCC>
